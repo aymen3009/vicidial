@@ -14,10 +14,10 @@ Add you server info :
 * mysql password 
 * database ( default : asterisk) : <br>
 <code>
-MysqlHost=&ltipadress&gt <br>
-MysqlUser=&ltuser&gt <br>
-MysqlPassword=&ltpassword&gt <br>
-MysqlDataBase=asterisk <br>
+MysqlHost=&ltipadress&gt <br> <br>
+MysqlUser=&ltuser&gt <br> <br>
+MysqlPassword=&ltpassword&gt <br> <br>
+MysqlDataBase=asterisk <br><br>
 </code>
 
 ### run :
