@@ -16,7 +16,7 @@ Add you server info :
 <code>
 MysqlHost=&ltipadress&gt <br>
 MysqlUser=&ltuser&gt <br>
-MysqlPassword=&lt1234&gt <br>
+MysqlPassword=&ltpassword&gt <br>
 MysqlDataBase=asterisk <br>
 </code>
 
